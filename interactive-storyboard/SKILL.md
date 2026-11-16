@@ -7,7 +7,7 @@ description: Turn a drawn storyboard (PDF or images) into an interactive visual 
 
 Turn a finished storyboard into an **interactive visual story**: a web page where the viewer moves the story on by clicking, holding and dragging on the drawings themselves, with sound, captions/dialogue and transitions that respect the film's rhythm. It is for people who already know what a storyboard is (boards, shots, slugs, notes); it is not an animatic generator.
 
-Example cases by the author of this skill, Ding Yilin: *The Joy of the White Room* and *Fahrenheit 451* (scenes 1, 8, 9) — see [`examples/`](../examples/) and the live versions on [dingyilin.netlify.app](https://dingyilin.netlify.app).
+Example cases by the author of this skill, Ding Yilin: *The Joy of the White Room* and *Fahrenheit 451* (scenes 1, 8, 9) — see [`examples/`](../examples/); play them live: [The Joy of the White Room](https://dingyilin.netlify.app/story/camera-bianca/), [Fahrenheit 451, scenes 1 → 8 → 9](https://dingyilin.netlify.app/story/fahrenheit-451/).
 
 ## 0. Ask before building (one round, then go)
 

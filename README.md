@@ -46,7 +46,11 @@ Made with this process by Ding Yilin, set designer:
 | ![](examples/f451-scene1-carry.jpg) | ![](examples/f451-scene9-dialogue.jpg) |
 | *Fahrenheit 451*, scenes 1 and 9 — American comic look | |
 
-Live: [dingyilin.netlify.app](https://dingyilin.netlify.app)
+Live:
+- *The Joy of the White Room*: [project page](https://dingyilin.netlify.app/project.html?id=camera-bianca) · [play the story directly](https://dingyilin.netlify.app/story/camera-bianca/)
+- *Fahrenheit 451*, scenes 1 → 8 → 9: [project page](https://dingyilin.netlify.app/project.html?id=fahrenheit-451) · [play the story directly](https://dingyilin.netlify.app/story/fahrenheit-451/)
+
+On each project page, the story is under "Storyboard": click **Enter the story**.
 
 The example images are © Ding Yilin, all rights reserved; they are not covered by the licence below.
 
@@ -61,5 +65,7 @@ The skill text (`interactive-storyboard/SKILL.md`) is released under the MIT lic
 一个 **Agent Skill**：把手绘分镜（Storyboarder 导出的 PDF 或分镜图片）变成可以互动的视觉故事网页。观众直接在画面上点击、按住、拖动来推进故事，配有声音、对白或字幕、转场和画面上的操作提示。保留你原本的线条，只加画风、节奏和交互。
 
 适合本身会画分镜的人使用。安装方法见上文 Install；需要能运行代码的 AI 工具（Claude、Claude Code、Codex 等）。
+
+在线案例：[《白色极乐》](https://dingyilin.netlify.app/project.html?id=camera-bianca)、[《华氏451》第 1、8、9 场](https://dingyilin.netlify.app/project.html?id=fahrenheit-451)，在项目页的 Storyboard 栏目点“进入故事”。
 
 示例作品图片版权归丁依琳所有，不在 MIT 许可范围内。
