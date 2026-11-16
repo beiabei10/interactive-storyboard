@@ -4,7 +4,7 @@ An **Agent Skill** that turns a drawn storyboard (a Storyboarder PDF or a folder
 
 It is made for people who already work with storyboards (boards, shots, slugs, notes). It does not redraw your work: it keeps your lines and gives them a look, a rhythm and interaction.
 
-![Fahrenheit 451, scene 8](examples/f451-scene8-cctv.jpg)
+![Interactive storyboards: The Joy of the White Room and Fahrenheit 451, scenes 1, 8 and 9](examples/overview.jpg)
 
 ## What it does
 
